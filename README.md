@@ -4,7 +4,10 @@
 
 ![Rosalinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindaLaass&theme=rose&show_icons=true)
 
-### 💻 Linguagens utilizadas:
-  + HTML e CSS
+### 💻 Habilidades:
+  + HTML e CSS 
   + JavaScript
+  + Python
+  + Machine Learning
+  + Figma
   
