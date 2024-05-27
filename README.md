@@ -1,3 +1,5 @@
+<img src="c:\Users\laass\OneDrive\Área de Trabalho\Frame 3.png" alt="apresentacao">
+
 ## Hi there 👋
 
 <!--
