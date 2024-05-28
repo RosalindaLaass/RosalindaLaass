@@ -12,7 +12,7 @@ I'm Rosa, I'm 22 years old, and I'm a full-stack developer and UX/UI designer. I
   <img align="center" src="https://github.com/RosalindaLaass/RosalindaLaass/assets/91973539/c9aaf72c-d27c-4f30-b703-975bfc571b93" alt="Imagem">
 </p>
 
-<h4 align="center">Tecnologias estudadas / Studied Technologies </h2>
+<h4 align="center">Tecnologias estudadas / Studied Technologies </h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,5 +20,7 @@ I'm Rosa, I'm 22 years old, and I'm a full-stack developer and UX/UI designer. I
   </a>
 </p>
 
+<h4> </h4>
 
-![Rosalinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalindaLaass&hide=issues&show_icons=true&theme=gruvbox)
+<h3> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
+
