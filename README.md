@@ -22,5 +22,5 @@ I'm Rosa, I'm 22 years old, and I'm a full-stack developer and UX/UI designer. I
 
 <h4> </h4>
 
-<h3> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
+<h3 align="center"> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
 
