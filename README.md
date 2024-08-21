@@ -22,5 +22,10 @@ I'm Rosa, I'm 22 years old, and I'm a full-stack developer and UX/UI designer. I
 
 <h4> </h4>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RosalindaLaass&show_icons=true&theme=gruvbox" alt="Rosalinda's GitHub stats">
+</p>
+
+
 <h3 align="center"> Obrigada por visitar minha página :) / Thank you for visiting my page :) </h3>
 
