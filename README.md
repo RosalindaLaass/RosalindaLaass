@@ -16,7 +16,7 @@ I'm Rosa, I'm 22 years old, and I'm a full-stack developer and UX/UI designer. I
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,py,ruby,c,docker,aws,laravel,mysql,react,ts" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,laravel,react,ts,py,ruby,c,docker,mysql,aws" />
   </a>
 </p>
 
