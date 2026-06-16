@@ -4,9 +4,9 @@
 
 ### 🌾 Conheça um pouco mais sobre mim / Get to know a little more about me.
 
-Sou a Rosa, tenho 23 anos, sou _desenvolvedora full-stack_ e _UX/UI designer_. Faço engenharia na UFES e participei de uma empresa júnior por dois anos e três meses, exercendo primeiramente o cargo de assessora de marketing digital e depois me tornando presidente. Atualmente, atuo como desenvolvedora front-end na Prefeitura de São Mateus. Tecnologia sempre foi uma das minhas paixões, entender e aprender a otimizar processos é algo que sempre me chamou atenção e por isso decidi entrar no mundo da programação.
+Sou a Rosa, tenho 24 anos, sou _desenvolvedora full-stack_ e _UX/UI designer_. Faço engenharia na UFES e participei de uma empresa júnior por dois anos e três meses, exercendo primeiramente o cargo de assessora de marketing digital e depois me tornando presidente. Atualmente, atuo como desenvolvedora front-end na Prefeitura de São Mateus. Tecnologia sempre foi uma das minhas paixões, entender e aprender a otimizar processos é algo que sempre me chamou atenção e por isso decidi entrar no mundo da programação.
 
-I'm Rosa, I'm 22 years old, and I'm a full-stack developer and UX/UI designer. I study engineering at UFES and was part of a junior company for two years and three months, initially working as a digital marketing assistant and later becoming president. Currently, I work as a front-end developer at the São Mateus City Hall. Technology has always been one of my passions, understanding and optimizing processes is something that has always caught my attention, which is why I decided to enter the programming world.
+I'm Rosa, I'm 24 years old, and I'm a full-stack developer and UX/UI designer. I study engineering at UFES and was part of a junior company for two years and three months, initially working as a digital marketing assistant and later becoming president. Currently, I work as a front-end developer at the São Mateus City Hall. Technology has always been one of my passions, understanding and optimizing processes is something that has always caught my attention, which is why I decided to enter the programming world.
 
 <p align="center">
   <img align="center" src="https://github.com/RosalindaLaass/RosalindaLaass/assets/91973539/c9aaf72c-d27c-4f30-b703-975bfc571b93" alt="Imagem">
